@@ -39,7 +39,7 @@
     "mathjax3": "^3.0.0-beta.3",
     "morgan": "^1.9.1",
     "mysql": "^2.16.0",
-    "nconf": "0.8.4",
+    "nconf": "0.11.4",
     "nodemon": "^1.19.0",
     "passport": "0.4.0",
     "passport-facebook": "2.1.1",
